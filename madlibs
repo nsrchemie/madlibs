@@ -1,3 +1,5 @@
 name = input("What is your name?")
 quest = input('What is your quest?')
 color = input('What is your favorite color?')
+
+print ('Hello ' + name + '.'  'Your quest of ' + quest + ' is a noble one!.' + 'I am also pleased that you enjoy the color ' + color)
